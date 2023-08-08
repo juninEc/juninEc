@@ -1,7 +1,7 @@
 
 ### Olá eu sou o Eduardo Júnior 🪐
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/eduardo-j%C3%BAnior-252a99235/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]( https://www.instagram.com/junior_ec1/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](https://www.linkedin.com/in/eduardo-j%C3%BAnior-252a99235/)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/junior_ec1/)
 
 Sou estudante de Sistemas de Informação na UESB, apaixonado por tecnologia e comprometido com o aprendizado. Acompanhando as últimas tendências, estou sempre em busca de novas tecnologias para expandir meus conhecimentos. Ansioso para explorar novas oportunidades e contribuir para a área de tecnologia!
 
